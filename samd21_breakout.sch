@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:samd21_breakout-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -439,7 +439,7 @@ F 3 "" H 4700 2750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Specialized:USB_A J1
+L Connector:USB_A J1
 U 1 1 5AA52E87
 P 1200 2300
 F 0 "J1" H 1255 2767 50  0000 C CNN
